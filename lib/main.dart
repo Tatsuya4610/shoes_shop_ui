@@ -4,6 +4,10 @@ import 'package:shoes_shop_ui_flutter/model/shoes_model.dart';
 import 'package:shoes_shop_ui_flutter/screen/desc_screen.dart';
 import 'screen/shoes_screen.dart';
 
+//YouTubeチャンネル　配信者　https://www.youtube.com/c/Utter_Flutter/featured
+//動画リンク。https://www.youtube.com/watch?v=M1HOKEOODFG3
+
+
 void main() => runApp(
       MultiProvider(
         providers: [

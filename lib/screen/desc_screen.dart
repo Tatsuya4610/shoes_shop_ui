@@ -40,7 +40,7 @@ class DescScreen extends StatelessWidget {
                     ],
                   ),
                   ShoesDescription(
-                    title: 'NIKE Sports Shoes',
+                    title: 'NIKE シューズ',
                     description:
                         'NIKEのスポーツシューズです。NIKEのスポーツシューズです。NIKEのスポーツシューズです。NIKEのスポーツシューズです。',
                   ),
